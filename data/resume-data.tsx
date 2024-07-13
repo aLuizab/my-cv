@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/MinasGerais",
   about: "Crafting Reliability with simplicity",
   summary:
-    "Starting my journey as a self-taught software developer, I began by contributing to major open-source projects, driven by a passion for collaborative coding and community-driven development. As my skills evolved, I mastered the art of building intricate UI structures using React and CSS, demonstrating a keen eye for design and user experience. My noteworthy contributions extend to enhancing MDN Web Docs, reflecting not only technical proficiency but also a commitment to advancing web development knowledge for the broader community.",
+    "Site Reliability Engineer (SRE) with 8 years of experience in technology and 4 years dedicated to SRE. Passionate about building resilient and scalable systems, I seek to apply my expertise in challenging environments to drive innovation and reliability. Experienced in monitoring, automation, and incident resolution at scale, with a focus on optimizing the performance and availability of critical services. Committed to collaborating with multidisciplinary teams to achieve exceptional results and contribute to a more connected and efficient world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/61609033?v=4",
   personalWebsiteUrl: "https://anaprimo.com.br",
   twitterUsername: "@aaluizab",
