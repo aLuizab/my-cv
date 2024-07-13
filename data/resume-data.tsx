@@ -9,6 +9,7 @@ export const RESUME_DATA = {
   about: "Crafting Reliability with simplicity",
   summary:
     "Starting my journey as a self-taught software developer, I began by contributing to major open-source projects, driven by a passion for collaborative coding and community-driven development. As my skills evolved, I mastered the art of building intricate UI structures using React and CSS, demonstrating a keen eye for design and user experience. My noteworthy contributions extend to enhancing MDN Web Docs, reflecting not only technical proficiency but also a commitment to advancing web development knowledge for the broader community.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/61609033?v=4",
   personalWebsiteUrl: "https://anaprimo.com.br",
   twitterUsername: "@aaluizab",
   contact: {
